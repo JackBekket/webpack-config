@@ -2,7 +2,7 @@ const path = require('path');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 var webpack = require('webpack');
 
-var FlowBabelWebpackPlugin = require('flow-babel-webpack-plugin');
+//var FlowBabelWebpackPlugin = require('flow-babel-webpack-plugin');
 
 module.exports = {
   entry:  ['./app/javascripts/app.js'],
